@@ -1,0 +1,10 @@
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\bin\Debug\netcoreapp2.2\Área do Círculo.deps.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\bin\Debug\netcoreapp2.2\Área do Círculo.runtimeconfig.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\bin\Debug\netcoreapp2.2\Área do Círculo.runtimeconfig.dev.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\bin\Debug\netcoreapp2.2\Área do Círculo.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\bin\Debug\netcoreapp2.2\Área do Círculo.pdb
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\obj\Debug\netcoreapp2.2\Área do Círculo.csproj.CoreCompileInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\obj\Debug\netcoreapp2.2\Área do Círculo.AssemblyInfoInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\obj\Debug\netcoreapp2.2\Área do Círculo.AssemblyInfo.cs
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\obj\Debug\netcoreapp2.2\Área do Círculo.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Área do Círculo\Área do Círculo\obj\Debug\netcoreapp2.2\Área do Círculo.pdb

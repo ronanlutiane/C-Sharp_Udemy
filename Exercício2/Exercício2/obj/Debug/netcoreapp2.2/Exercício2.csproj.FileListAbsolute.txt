@@ -1,0 +1,11 @@
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.csprojAssemblyReference.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.AssemblyInfoInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.AssemblyInfo.cs
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\bin\Debug\netcoreapp2.2\Exercício2.deps.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\bin\Debug\netcoreapp2.2\Exercício2.runtimeconfig.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\bin\Debug\netcoreapp2.2\Exercício2.runtimeconfig.dev.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\bin\Debug\netcoreapp2.2\Exercício2.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\bin\Debug\netcoreapp2.2\Exercício2.pdb
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercício2\Exercício2\obj\Debug\netcoreapp2.2\Exercício2.pdb
