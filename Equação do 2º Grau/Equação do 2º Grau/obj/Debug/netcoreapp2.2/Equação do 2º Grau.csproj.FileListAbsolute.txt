@@ -1,0 +1,11 @@
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\netcoreapp2.2\Equação do 2º Grau.deps.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\netcoreapp2.2\Equação do 2º Grau.runtimeconfig.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\netcoreapp2.2\Equação do 2º Grau.runtimeconfig.dev.json
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\netcoreapp2.2\Equação do 2º Grau.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\netcoreapp2.2\Equação do 2º Grau.pdb
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.csprojAssemblyReference.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.csproj.CoreCompileInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.AssemblyInfoInputs.cache
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.AssemblyInfo.cs
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.dll
+C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\netcoreapp2.2\Equação do 2º Grau.pdb
