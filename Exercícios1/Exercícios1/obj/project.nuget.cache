@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9tVhQN8VX6wPMoVlpUMZtU9xaEVYDfB/Dj/7GFfXE8X8linngYDR/p9Q4N55O2A7bWIlc6FkUBMxQV5/kDx+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronan\\Source\\Repos\\ronanlutiane\\C-Sharp_Udemy\\Exercícios1\\Exercícios1\\Exercícios1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ronan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

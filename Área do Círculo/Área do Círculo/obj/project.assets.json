@@ -686,23 +686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ronan Lutiane\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Ronan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ronan Lutiane\\Documents\\GitHub\\Udemy\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\Área do Círculo.csproj",
+      "projectUniqueName": "C:\\Users\\Ronan\\source\\repos\\ronanlutiane\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\Área do Círculo.csproj",
       "projectName": "Área do Círculo",
-      "projectPath": "C:\\Users\\Ronan Lutiane\\Documents\\GitHub\\Udemy\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\Área do Círculo.csproj",
-      "packagesPath": "C:\\Users\\Ronan Lutiane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ronan Lutiane\\Documents\\GitHub\\Udemy\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\obj\\",
+      "projectPath": "C:\\Users\\Ronan\\source\\repos\\ronanlutiane\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\Área do Círculo.csproj",
+      "packagesPath": "C:\\Users\\Ronan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ronan\\source\\repos\\ronanlutiane\\C-Sharp_Udemy\\Área do Círculo\\Área do Círculo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ronan Lutiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ronan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -714,6 +710,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -725,6 +722,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -734,10 +732,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

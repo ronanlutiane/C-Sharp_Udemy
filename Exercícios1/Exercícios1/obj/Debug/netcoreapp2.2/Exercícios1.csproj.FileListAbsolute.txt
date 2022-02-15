@@ -9,3 +9,16 @@ C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercícios1\Exercí
 C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.AssemblyInfo.cs
 C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.dll
 C:\Users\Ronan Lutiane\Documents\GitHub\Udemy\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.pdb
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\bin\Debug\netcoreapp2.2\Exercícios1.deps.json
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\bin\Debug\netcoreapp2.2\Exercícios1.runtimeconfig.json
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\bin\Debug\netcoreapp2.2\Exercícios1.runtimeconfig.dev.json
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\bin\Debug\netcoreapp2.2\Exercícios1.dll
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\bin\Debug\netcoreapp2.2\Exercícios1.pdb
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.csproj.AssemblyReference.cache
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.AssemblyInfoInputs.cache
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.AssemblyInfo.cs
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.dll
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.pdb
+C:\Users\Ronan\Source\Repos\ronanlutiane\C-Sharp_Udemy\Exercícios1\Exercícios1\obj\Debug\netcoreapp2.2\Exercícios1.genruntimeconfig.cache
